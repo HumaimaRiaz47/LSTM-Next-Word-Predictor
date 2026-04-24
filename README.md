@@ -3,7 +3,7 @@
 ## 🚀 Overview
 
 This project implements a **Next Word Prediction system** using an LSTM (Long Short-Term Memory) neural network.
-It follows a complete NLP pipeline — from problem formulation to deployment — based on the CampusX deep learning series.
+It follows a complete NLP pipeline — from problem formulation to deployment
 
 The model learns patterns from text data and predicts the most probable next word given an input sequence.
 
@@ -70,14 +70,6 @@ This task is fundamental in:
 
 ---
 
-### 🔹 5. GRU Variant Implementation
-
-* Implemented GRU (Gated Recurrent Unit) as an alternative
-* Compared performance with LSTM
-* Demonstrated flexibility of RNN architectures
-
----
-
 ## 🛠️ Tech Stack
 
 * Python
@@ -111,13 +103,6 @@ streamlit run app.py
 
 ---
 
-## 🔁 GRU vs LSTM
-
-* GRU is a simpler and faster variant of LSTM
-* Fewer parameters → faster training
-* LSTM may capture more complex dependencies
-
----
 
 ## 📊 Future Improvements
 
